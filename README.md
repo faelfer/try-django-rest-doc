@@ -1,5 +1,5 @@
 
-# 1: Project Name
+# 1: try-django-rest-doc
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
