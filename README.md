@@ -1,5 +1,5 @@
 
-# 1: try-django-rest-doc
+# 1: try-django-rest-doc | v0.2
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
